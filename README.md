@@ -36,3 +36,8 @@ Solutions or Ideas
 - Use some tools to effectively retrieve job description to dedicated platforms like Indeed. User need to just input basic information. App asks for field of interest and prepares resumes tailored especially for jobs available in let's say Indeed. User don't even need to know any keyword. Based on job description, for every resume some projects are add based on some recommendations from internet and the links to how to build the project with relevant skills can be suggested by AI agents
 -
 ........
+
+We can do the following,
+
+We can create separate branches of the same git repo for each idea and start working instead of wasting time and later we can share the knowledge that we get from it.
+For eg: I will create a ResumeBuilder branch in this repo and start working on it for now.
